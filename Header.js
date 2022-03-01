@@ -28,7 +28,7 @@ export default function Header() {
               textAlign:'center',
               fontWeight:"bold",
               fontSize:18
-          }}>Hi Rashwant</Text>
+          }}></Text>
         <Text style={{textAlign:'center',color:"grey"}}>You have 7 portfolio</Text>
       </View>
 
